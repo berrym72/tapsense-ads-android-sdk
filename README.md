@@ -12,7 +12,7 @@ The TapSense SDK is a compiled library that you can include in your application.
 
 * **[TapSense Full SDK.zip] (https://s3.amazonaws.com/ts-sdks/android-pub/tapsense_android_publisher_sdk_2.1.1_full.zip)**
 
-  Mediate across leading Ad Networks such as Google (AdMob), Twitter (MoPub), and Millennial Media, as well as get premium CPM from the TapSense RTB Marketplace.
+  Mediate across leading Ad Networks such as Google, Twitter (MoPub), and Millennial Media, as well as get premium CPM from the TapSense RTB Marketplace.
 
 The current SDK version is 2.1.1.
 
