@@ -6,11 +6,11 @@ With the TapSense Publisher SDK, start monetizing your apps from premium demand 
 
 The TapSense SDK is a compiled library that you can include in your application.
 
-* **[TapSense Base SDK.zip] (https://s3.amazonaws.com/ts-sdks/android-pub/tapsense_android_publisher_sdk_2.4.0_base.zip)**
+* **[TapSense Base SDK.zip] (https://s3.amazonaws.com/ts-sdks/android-pub/tapsense_android_publisher_sdk_2.3.1_base.zip)**
 
   Get premium CPM from the TapSense RTB Marketplace. This version does not include support for 3rd-party Ad Networks.
 
-* **[TapSense Full SDK.zip] (https://s3.amazonaws.com/ts-sdks/android-pub/tapsense_android_publisher_sdk_2.4.0_full.zip)**
+* **[TapSense Full SDK.zip] (https://s3.amazonaws.com/ts-sdks/android-pub/tapsense_android_publisher_sdk_2.3.1_full.zip)**
 
   Mediate across leading Ad Networks such as Google, Twitter (MoPub), and Millennial Media, as well as get premium CPM from the TapSense RTB Marketplace.
 
